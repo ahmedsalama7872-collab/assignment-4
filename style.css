@@ -1350,11 +1350,17 @@ gap: 10px;
     left: 765px;
   }
   .author {
-    width: 32%;
+    width: 31%;
     padding: 10px 30px 25px 30px;
     border-width: 5px;
     box-shadow: 4px 4px 0 black;
+    align-items: stretch;
   }
+.a3{
+  margin-top:0;
+  margin-bottom:0;
+   padding-bottom: 40px;
+}
 
   .meet-container {
     width: 73%;
