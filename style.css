@@ -1180,7 +1180,9 @@ gap: 10px;
     width: 100%;
     height: 400px;
   }
-
+.heading{
+  width: 80%;
+}
   /* articles */
 
   .articles-container {
